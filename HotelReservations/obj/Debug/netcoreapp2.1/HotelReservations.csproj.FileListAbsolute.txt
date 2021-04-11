@@ -1,0 +1,8 @@
+C:\Users\mnikolic\Desktop\nm\HotelReservations\HotelReservations\bin\Debug\netcoreapp2.1\HotelReservations.deps.json
+C:\Users\mnikolic\Desktop\nm\HotelReservations\HotelReservations\bin\Debug\netcoreapp2.1\HotelReservations.dll
+C:\Users\mnikolic\Desktop\nm\HotelReservations\HotelReservations\bin\Debug\netcoreapp2.1\HotelReservations.pdb
+C:\Users\mnikolic\Desktop\nm\HotelReservations\HotelReservations\obj\Debug\netcoreapp2.1\HotelReservations.csproj.CoreCompileInputs.cache
+C:\Users\mnikolic\Desktop\nm\HotelReservations\HotelReservations\obj\Debug\netcoreapp2.1\HotelReservations.AssemblyInfoInputs.cache
+C:\Users\mnikolic\Desktop\nm\HotelReservations\HotelReservations\obj\Debug\netcoreapp2.1\HotelReservations.AssemblyInfo.cs
+C:\Users\mnikolic\Desktop\nm\HotelReservations\HotelReservations\obj\Debug\netcoreapp2.1\HotelReservations.dll
+C:\Users\mnikolic\Desktop\nm\HotelReservations\HotelReservations\obj\Debug\netcoreapp2.1\HotelReservations.pdb

@@ -1,0 +1,15 @@
+C:\Users\mnikolic\Desktop\nm\HotelReservations\ConsoleApp\bin\Debug\netcoreapp2.1\ConsoleApp.deps.json
+C:\Users\mnikolic\Desktop\nm\HotelReservations\ConsoleApp\bin\Debug\netcoreapp2.1\ConsoleApp.runtimeconfig.json
+C:\Users\mnikolic\Desktop\nm\HotelReservations\ConsoleApp\bin\Debug\netcoreapp2.1\ConsoleApp.runtimeconfig.dev.json
+C:\Users\mnikolic\Desktop\nm\HotelReservations\ConsoleApp\bin\Debug\netcoreapp2.1\ConsoleApp.dll
+C:\Users\mnikolic\Desktop\nm\HotelReservations\ConsoleApp\bin\Debug\netcoreapp2.1\ConsoleApp.pdb
+C:\Users\mnikolic\Desktop\nm\HotelReservations\ConsoleApp\bin\Debug\netcoreapp2.1\HotelReservations.dll
+C:\Users\mnikolic\Desktop\nm\HotelReservations\ConsoleApp\bin\Debug\netcoreapp2.1\HotelReservations.pdb
+C:\Users\mnikolic\Desktop\nm\HotelReservations\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\mnikolic\Desktop\nm\HotelReservations\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\mnikolic\Desktop\nm\HotelReservations\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\mnikolic\Desktop\nm\HotelReservations\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.AssemblyInfo.cs
+C:\Users\mnikolic\Desktop\nm\HotelReservations\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.csproj.CopyComplete
+C:\Users\mnikolic\Desktop\nm\HotelReservations\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.dll
+C:\Users\mnikolic\Desktop\nm\HotelReservations\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.pdb
+C:\Users\mnikolic\Desktop\nm\HotelReservations\ConsoleApp\bin\Debug\netcoreapp2.1\appsettings.json
